@@ -10,4 +10,3 @@ address this need by developing a Hostel Entry
 Recognition System powered by advanced face
 recognition technology.
 
-![image_alt](https://github.com/nakul-chhimwal/Hosteller-DayScholar-ID-System/blob/647feb5089504b812d5f163f9dcc6f003131ff20/Screenshot%202024-04-21%20233302.png)
